@@ -3,16 +3,17 @@ body{
 }
 
 :root{
-    font-size: 30px;
+    
 }
 .typography{
     margin-top: 150px;
     text-align: center;
 
-    font-size: 2em;
-    font-weight: 800;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 3rem;
 }
 .styled-div{
     font-size: 3em;
